@@ -6,11 +6,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-
 public class Tab2 extends Fragment {
 
     public Tab2() {
-        // Required empty public constructor
+
     }
 
     @Override
@@ -19,5 +18,4 @@ public class Tab2 extends Fragment {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_tab2, container, false);
     }
-
 }
